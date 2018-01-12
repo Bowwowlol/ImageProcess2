@@ -27,7 +27,7 @@ struct THREAD_INFO
 }Thread_Info, *pThread_Info;//建立執行續
 
 
-
+//我在家裡面加了這個測試看看。
 
 cv::VideoCapture CMFCApplication3Dlg::capture;
 bool CMFCApplication3Dlg::m_Continue;
