@@ -53,6 +53,9 @@
     <ClCompile Include="CCamCapture2.cpp">
       <Filter>原始程式檔</Filter>
     </ClCompile>
+    <ClCompile Include="CVisualTracker.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="MFCApplication3.rc">
